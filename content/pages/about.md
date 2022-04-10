@@ -5,17 +5,12 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy yo?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Estudie Mercadotecnia en la Universidad utónoma de Sinaloa.
+> Pero mi pasión por las computadoras me trajo al camino ded desarrollador de software.
+> Espero aprender a formar sistemas de inteligencia artificial y contribuir al progreso.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Actualmente radico en Culiacán, Sinaloa, México.** En el futuro, quién sabe.
