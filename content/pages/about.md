@@ -9,8 +9,8 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Estudie Mercadotecnia en la Universidad utónoma de Sinaloa.
+> Estudié Mercadotecnia en la Universidad Autónoma de Sinaloa.
 > Pero mi pasión por las computadoras me trajo al camino del desarrollador de software.
-> Espero aprender a formar sistemas de inteligencia artificial y contribuir al progreso.
+> Espero aprender a formar sistemas de inteligencia artificial y aprender mucho.
 
-**Actualmente radico en Culiacán, Sinaloa, México.** En el futuro, quién sabe.
+**Hoy estamos aquí, Mañana, quién sabe.** 
