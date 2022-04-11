@@ -11,6 +11,6 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 > Estudié Mercadotecnia en la Universidad Autónoma de Sinaloa.
 > Pero mi pasión por las computadoras me trajo al camino del desarrollador de software.
-> Espero aprender a formar sistemas de inteligencia artificial y aprender mucho.
+> Quiero formar sistemas de inteligencia artificial y aprender a usar Linux.
 
-**Hoy estamos aquí, Mañana, quién sabe.** 
+**Hoy estamos aquí, mañana quién sabe.** 
